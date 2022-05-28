@@ -18,6 +18,7 @@ import "regenerator-runtime/runtime";
 
 ///////////////////////////////////////
 console.log("Welcome...");
+console.log("Welcome to Forkify App...");
 
 const controlRecipes = async function () {
 	try {
